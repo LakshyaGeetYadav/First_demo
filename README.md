@@ -1,5 +1,5 @@
 # First_demo
 This is my first Git Repository.
 <br>
-Author: Lakshya Geet Yadav
+Author: Lakshya Geet Yadav (Tero Bau )
 </br>
